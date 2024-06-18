@@ -2,19 +2,19 @@
 
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268487157-a1c73ca6-8427-42da-9bda-4b18e04f02d4.png)
 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm 𝓒𝓪𝓷𝓲𝓼𝓜𝓲𝓷𝓸𝓻</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm SAI VENKAT</h1>
 
-As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source projects & Dedicated to being a craftsman who creates sh\*t beauty
+As a Btech student i am studying in INDIA<br/>Hyped about open source projects & Dedicated to being a craftsman who creates sh\*t beauty
 
-![][social-design-engineer]
+![][currently pursuing CSE with specialization AI and DATA engineering]
 ![][social-follow]
-[![][social-bilibili]](https://space.bilibili.com/410372)<br/>
+<br/>
 ![][social-qq-shield]
 ![][social-wechat-shield]
 ![][social-discord-shield]
 [![][social-steam-shield]][social-steam-link]
 [![][social-x-shield]][social-x-link]<br/>
-[![sponsor](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-f04f88?logo=kofi&logoColor=white&style=flat-square)](https://ko-fi.com/canisminor1990 "Sponsor me on Ko-Fi")<br/>
+[![sponsor](https://ko-fi.com/saivenkat "Sponsor me on Ko-Fi")<br/>
 
 [![][github-trending-shield]][github-trending-url]
 
