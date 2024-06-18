@@ -1,8 +1,8 @@
 <div align="center">
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;">
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm SAI VENKAT</h1>
 
-As a Btech student i am studying in INDIA<br/>Hyped about open source projects & Dedicated to being a craftsman who creates beauty with coding...
+As a Btech student, I am studying in INDIA<br/>Hyped about open source projects & Dedicated to being a craftsman who creates beauty with coding...
 
 <h3>currently pursuing CSE with specialization AI and DATA engineering</h3><br>
 <br/>
