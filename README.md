@@ -14,8 +14,6 @@ As a Btech student i am studying in INDIA<br/>Hyped about open source projects &
 
 ### 👀 Social Media
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiiexd&label=Profile%20views&color=0e75b6&style=flat" alt="saiiexd" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiiexd" alt="saiiexd" /></a> </p>
 
 - 🔭 I’m currently working on [Boot Camp](https://github.com/saiiexd?tab=repositories)
