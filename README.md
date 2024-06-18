@@ -1,34 +1,8 @@
-# Hi 👋, I'm Sai Venkat
 
-A passionate AI and Data Engineering student from India
 
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/saiiexd/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/saiiexd/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">](#)
-[<img align="right" width="390" height="80" alt="🦑" src="https://gist.githubusercontent.com/saiiexd/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
+📊 Metrics <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">
+Continuous integration
 
----
+Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories!
 
-## 🔭 I'm currently working on Boot Camp
-
-## 🌱 I'm currently learning AI and Data Engineering
-
-## 🫱🏻‍🫲🏻 I’m looking to collaborate on AI and Data Related Projects
-
-## 🤗 I’m looking for help with AI-based projects that would be helpful for my career
-
-## 👨‍💻 All of my projects are available at [github.com/saiiexd](https://github.com/saiiexd?tab=repositories)
-
-## 📝 I regularly give updates about my official life on [LinkedIn](https://www.linkedin.com/in/sai-venkat-7a2843218/)
-
-## 📫 How to reach me: [saivenkat262005@gmail.com](mailto:saivenkat262005@gmail.com)
-
----
-
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/saiiexd/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">](https://github.com/sponsors/saiiexd)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/saiiexd/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
-
-[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/saiiexd/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
-
-[<img align="right" alt="🦑" src="https://github.com/saiiexd/saiiexd/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
-
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<table> <tr> <th align="center">For user accounts</th> <th align="center">For organization accounts</th> </tr> <tr> <td align="center"> <img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.classic.svg" alt=""></img> </td> <td align="center"> <img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.organization.svg" alt=""></img> </td> </tr> <tr> <th colspan="2" align="center"> <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3> </th> </tr> <tr> <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th> <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th> </tr> <tr> <td align="center"> <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details> <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details> <img width="900" height="1" alt=""> </td> <td align="center"> <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details> <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details> <details><summary>Default algorithm</summary><img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details> <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details> <img width="900" height="1" alt=""> </td> </tr> <tr> <th><a href="source/plugins/stargazers/README.md">✨ Stargazers</a></th> <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th> </tr> <tr> <td align="center"> <details open><summary>Classic charts</summary><img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details> <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details> <details open><summary>Worldmap</summary><img alt="" width="400" src="https://github.com/saiiexd/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img></details> <img width="900" height="1" alt=""> </td> <td align="center"> <details open><summary>Repositories and diff history</summary><img alt="" width="400" src="https://github
