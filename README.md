@@ -8,7 +8,7 @@ As a Btech student i am studying in INDIA<br/>Hyped about open source projects &
 [social-follow]
 <br/>
 
-[![sponsor](https://ko-fi.com/saivenkat "Sponsor me on Ko-Fi")<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiiexd&label=Profile%20views&color=0e75b6&style=flat" alt="saiiexd" /> </p>
 
 
 ![][split]
