@@ -1,14 +1,21 @@
 <div align="center">
 
+# 🌌 Hi, I'm <span>
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <strong style="color:#00FFFF">Sai Venkat</strong> — building the future, one prompt at a time 🚀
+  </marquee>
+</span>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=004e92&height=140&section=header&text=Welcome%20to%20Sai's%20AI%20Lab&fontColor=ffffff&fontSize=28&fontAlignY=35)
 
 ---
 
 ### 👨‍💻 About Me
+```bash
+sai@ai-lab:~$ whoami
+I'm Sai Venkat — building the future, one prompt at a time.
+```
 
-   Hey, I am Sai Venkat 👨‍💻
-
-   
 🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
 📌 **Internship Ongoing** — mastering DSA in Java, building real-time systems  
 🧠 **Expertise**: Prompt Engineering, Audio AI, UI/UX Design, Research  
@@ -35,13 +42,26 @@
 <p>
   <img src="https://skillicons.dev/icons?i=powerbi" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img srchttps://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png/>
 </p>
 
 #### 💃 Big Data & Cloud Platforms
 <p>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" />
   <img src="https://skillicons.dev/icons?i=aws,azure,mongodb,firebase" />
+</p>
+
+#### 🥛 Databases & Data Engineering Essentials
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-000000?style=flat&logo=data&logoColor=white" />
+</p>
+
+#### 🚀 Computer Networks & System Concepts
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Networks-2C2C2C?style=flat&logo=protonvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/OS%20Concepts-00599C?style=flat&logo=gnubash&logoColor=white" />
 </p>
 
 #### ⚙️ Tools, Platforms & IDEs
@@ -65,7 +85,7 @@
 
 ### 🚤 My Journey So Far
 - 🎓 Joined LPU with AI leadership ambition
-- 🤯 Faced coding struggles — now turning them into strengths
+- 🧲 Faced coding struggles — now turning them into strengths
 - 💡 Learning DSA + internship bootcamps
 - 🔊 Prototyping Voca AI – custom transcription and grammar engine
 - 🧪 Researching Prompt Engineering + GPT fine-tuning
