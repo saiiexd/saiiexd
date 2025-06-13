@@ -29,7 +29,7 @@
 
 #### 📊 Data Science & Analysis
 <p>
-  <img src="https://camo.githubusercontent.com/325fab592f249d1b02acde84f86f9392e48ff4bba6788b5dafcfb1091b4e7dad/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461735f77686974652e737667 />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"/>
   <img src="https://img.shields.io/badge/Matplotlib-20232A?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-20232A?style=flat&logo=python&logoColor=white" />
 </p>
