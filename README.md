@@ -24,11 +24,28 @@ I'm Sai Venkat — building the future, one prompt at a time.
 
 ---
 
+### 🧰 Tech Toolbox
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
+</p>
+
+---
+
 ### 📊 GitHub Tracking System
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-venkat-ai&theme=radical&show_icons=true&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-venkat-ai&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat-ai&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-venkat-ai&theme=tokyonight&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-venkat-ai&theme=tokyonight&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat-ai&theme=tokyonight&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
@@ -38,14 +55,25 @@ I'm Sai Venkat — building the future, one prompt at a time.
 - 📝 Designed and deployed projects using Firebase + Python + DSA logic
 - 📕 Completed **Grokking Algorithms** for foundational DSA
 - 👨‍💼 Learning from real-world internships and research
+- 🏆 Mastered basics of Data Engineering stack in year 1–2 of B.Tech
 
 ---
 
 ### 👉 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SaiVenkat-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-sai.venkat%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sai.venkat@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-profile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-red?style=for-the-badge&logo=kaggle)](https://kaggle.com/your-profile)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-SaiVenkat-red?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sai.venkat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sai.venkat%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://leetcode.com/your-profile">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-red?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://kaggle.com/your-profile">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-red?style=for-the-badge&logo=kaggle" />
+  </a>
+</p>
 
 ---
 
@@ -55,7 +83,7 @@ I'm Sai Venkat — building the future, one prompt at a time.
 </p>
 
 <div align="center">
-Built with ❤️, Python & Prompt Engineering <br>
+Built with ❤️, Python & Prompt Engineering  
 Crafting AI systems for tomorrow's world. 🤖
 </div>
 
