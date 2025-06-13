@@ -67,7 +67,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
     </td>
     <td>
-      <img src="https://img.icons8.com/color/48/microsoft-azure-1.png" width="40" title="Azure"/>
+      <img src="https://img.icons8.com/color/48/microsoft-azure-1.png" width="50" title="Microsoft Azure"/>
       <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
     </td>
