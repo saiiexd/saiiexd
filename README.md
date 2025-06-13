@@ -54,6 +54,13 @@ I'm Sai Venkat — building the future, one prompt at a time.
 
 ---
 
+### 🦟 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/saivenkat262005?theme=dark&font=Baloo&ext=activity" />
+</p>
+
+---
+
 ### 🌟 Achievements & Highlights
 - ✨ Built **Voca AI** — real-time audio-to-text app with transcription animation
 - 📝 Designed and deployed projects using Firebase + Python + DSA logic
@@ -78,7 +85,6 @@ I'm Sai Venkat — building the future, one prompt at a time.
     <img src="https://img.shields.io/badge/Kaggle-sai--venkat--ai-red?style=for-the-badge&logo=kaggle" />
   </a>
 </p>
-
 
 ---
 
