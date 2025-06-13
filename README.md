@@ -24,70 +24,39 @@ I'm Sai Venkat — building the future, one prompt at a time.
 
 ---
 
-### 🧠 Tech Stack & Skills (Categorized)
-
-#### 🔢 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-</p>
-
-#### 📊 Data Science & Analysis
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
-</p>
-
-#### 📈 Business Intelligence & Visualization
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/rahulbanerjee26/githubProfileReadmeGenerator/icons/excel.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/rahulbanerjee26/githubProfileReadmeGenerator/icons/powerbi.svg" height="40" />
-</p>
-
-#### 💃 Big Data & Cloud Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-</p>
-
-#### 🥛 Databases & Data Engineering Essentials
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-</p>
-
-#### 🚀 Computer Networks & System Concepts
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" />
-</p>
-
-#### ⚙️ Tools, Platforms & IDEs
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
-</p>
-
-#### 🎨 UI/UX Design
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-</p>
-
-#### 🧠 AI/ML Tools & Research
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="40" />
+### 📊 GitHub Tracking System
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-venkat-ai&theme=radical&show_icons=true&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-venkat-ai&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat-ai&theme=radical&layout=compact" />
 </p>
 
 ---
 
-<!-- rest of the file remains unchanged -->
+### 🌟 Achievements & Highlights
+- ✨ Built **Voca AI** — real-time audio-to-text app with transcription animation
+- 📝 Designed and deployed projects using Firebase + Python + DSA logic
+- 📕 Completed **Grokking Algorithms** for foundational DSA
+- 👨‍💼 Learning from real-world internships and research
+
+---
+
+### 👉 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SaiVenkat-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-sai.venkat%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sai.venkat@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-profile)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-red?style=for-the-badge&logo=kaggle)](https://kaggle.com/your-profile)
+
+---
+
+### 🧠 Footer Pulse
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated-red.svg" width="100%" />
+</p>
+
+<div align="center">
+Built with ❤️, Python & Prompt Engineering <br>
+Crafting AI systems for tomorrow's world. 🤖
+</div>
+
+---
