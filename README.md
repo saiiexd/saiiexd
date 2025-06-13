@@ -1,105 +1,120 @@
 <!-- 🧬 Legendary GitHub ReadMe for Sai Venkat 🧬 -->
 
-<!-- 🎨 Fullscreen Animated Hero -->
+<!-- 🌌 Hero Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/fantasy-forest-bg.gif" width="100%"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=16F2B3&center=true&vCenter=true&width=1000&height=80&lines=Hey+I'm+Sai+Venkat+%F0%9F%92%A1;Chief+AI+Officer+in+the+Making+%F0%9F%A6%95;Engineer+by+Mind%2C+Artist+by+Soul+%F0%9F%8E%A8"/>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/ai-planet-scene.gif" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=1000&height=80&lines=Hey,+I'm+Sai+Venkat+%F0%9F%A6%95;Chief+AI+Officer+in+the+Making+%F0%9F%94%AC;Future+Tech+Wizard+%F0%9F%A7%A0"/>
 </div>
 
-<!-- 🎡 Custom Floating Illustrations -->
+<!-- 🌠 Floating Creatures Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/magical-bear.gif" width="120" style="animation: float 5s ease-in-out infinite;"/>
-  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/dragon-companion.gif" width="120" style="animation: slideLR 7s ease-in-out infinite;"/>
-  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/star-fox.gif" width="120" style="animation: bounceRotate 6s ease-in-out infinite;"/>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/fantasy-penguin.gif" width="100" class="floatUp"/>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/cyber-cat.gif" width="110" class="bounce"/>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/astro-bird.gif" width="100" class="fly"/>
 </div>
 
 <style>
-  .floating { animation: float 4s ease-in-out infinite; }
-  @keyframes float { 0% { transform: translateY(0); } 50% { transform: translateY(-15px); } 100% { transform: translateY(0); } }
-  .slide-left-right { animation: slideLR 6s ease-in-out infinite; }
-  @keyframes slideLR { 0% { transform: translateX(0); } 50% { transform: translateX(20px); } 100% { transform: translateX(0); } }
-  .bounce-rotate { animation: bounceRotate 5s ease-in-out infinite; }
-  @keyframes bounceRotate { 0%, 100% { transform: rotate(0deg) translateY(0); } 50% { transform: rotate(20deg) translateY(-10px); } }
+  .floatUp {
+    animation: floatUp 6s ease-in-out infinite;
+  }
+  @keyframes floatUp {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+  }
+
+  .bounce {
+    animation: bounce 5s ease-in-out infinite;
+  }
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(15px); }
+  }
+
+  .fly {
+    animation: fly 8s linear infinite;
+  }
+  @keyframes fly {
+    0% { transform: translateX(0px); }
+    100% { transform: translateX(30px); }
+  }
 </style>
 
 ---
 
 ## 🌟 About Me
-Hi! I'm **Sai Venkat**, a dreamer, builder, and future **Chief AI Officer** 🇮🇳. I build cool AI tools, engineer data pipelines, and run with wild ideas 🦄. I love merging **code** with **creativity** — because tech should feel magical!
+Hi! I'm **Sai Venkat**, a future **Chief AI Officer**, passionate about blending **AI** with **artistic innovation**. I believe in creating systems that feel alive, delightful, and smart.
 
 ---
 
-## 🛠️ My Skill Kingdom
+## 🔧 Tech Toolbox
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,sql,pandas,numpy,mongodb,azure,aws,hadoop,powerbi,html,css,js"/>
 </div>
 
-- 🔍 **Data Engineering** — ETL Pipelines, Pandas, Hadoop
-- ☁️ **Cloud Computing** — AWS, Azure
-- 🧠 **AI Engineering** — Prompt Engineering, LLMs, ChatGPT
-- 📊 **Dashboards** — Excel, Power BI
-- 🚀 **Startup Building** — Full-stack, Business apps
+- 🧠 AI & Prompt Engineering
+- ☁️ AWS + Azure Cloud Deployments
+- 📈 Power BI Dashboards
+- 📦 Data Pipelines, ETL, Hadoop
+- 🌍 Full-stack tools for building apps
 
 ---
 
-## 🎨 Portfolio Projects
-| 🧠 Project | 🌀 Description | ⚡ Status |
+## 🧩 Featured Projects
+| 🚀 Project | 💬 Description | 📊 Status |
 |-----------|----------------|-----------|
-| Voca AI | Real-time speech-to-text with grammar correction | 🚧 Beta |
-| PromptCraft | AI Business/Product Idea Generator | ✅ Live |
-| Finance Pulse | Personal Finance Analytics Tool | 🔄 Building |
+| Voca AI | Real-time audio transcription app | 🚧 Beta |
+| PromptCraft | AI-powered idea generator | ✅ Live |
+| Finance Pulse | Visual analytics for personal finance | 🔄 Building |
 
 <div align="center">
-  <img class="floating" src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/project-globe.gif" width="140"/>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/ai-cube-floating.gif" width="130" class="floatUp"/>
 </div>
 
 ---
 
-## 🧪 Current Experiments
+## 🧠 What I’m Up To
 ```bash
-🧪 Currently learning:
-- Java DSA for interviews
-- Prompt engineering for GPTs
-- Distributed systems with Hadoop
+Learning:
+- DSA in Java for interviews
+- Prompt Engineering & LLM APIs
+- Distributed data systems
 ```
 
 ---
 
-## 📈 GitHub Universe
+## 🌍 Activity Universe
 <div align="center">
-  <img class="floating" src="https://github-readme-stats.vercel.app/api?username=saivenkat262005&show_icons=true&theme=tokyonight"/>
-  <img class="slide-left-right" src="https://github-readme-streak-stats.herokuapp.com?user=saivenkat262005&theme=tokyonight"/>
-  <img class="floating" src="https://github-profile-trophy.vercel.app/?username=saivenkat262005&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saivenkat262005&show_icons=true&theme=radical" class="floatUp"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saivenkat262005&theme=radical" class="bounce"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saivenkat262005&theme=radical" class="fly"/>
 </div>
 
 ---
 
-## 🧠 Practice Profiles
+## 🔗 Practice Portals
 <div align="center">
-  <img class="floating" src="https://leetcode.card.workers.dev/?username=saivenkat262005&style=dark"/>
-  <img class="slide-left-right" src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/study-owl.gif" width="140"/>
+  <img src="https://leetcode.card.workers.dev/?username=saivenkat262005&style=dark" width="300"/>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/kaggle-magic.gif" width="130" class="bounce"/>
 </div>
 
-- 🔗 [Leetcode](https://leetcode.com/u/saivenkat262005/)
-- 🔗 [Kaggle](https://www.kaggle.com/saiiexd)
+- [Leetcode](https://leetcode.com/u/saivenkat262005/)
+- [Kaggle](https://www.kaggle.com/saiiexd)
 
 ---
 
-## 📬 Let’s Connect
+## 🤝 Connect with Me
 <div align="center">
-  <a href="mailto:saiiexd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saiiexd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saiiexd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saiiexd/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
 
-## 🪐 Signature Island
+## 🧬 Final Frame
 <div align="center">
-  <img class="floating" src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/floating-island.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/ai-island-scene.gif" width="100%"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=saivenkat262005&style=flat-square&color=brightgreen"/>
 </div>
 
----
-
-> 🚀 _Crafted from pure imagination, a sprinkle of code, and dreams by Sai Venkat._
+> 💫 _Sai Venkat — the dreamer coding a smarter India, one AI app at a time._
