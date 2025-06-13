@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=140&section=header&text=Welcome%20to%20Sai's%20AI%20Lab&fontColor=ffffff&fontSize=28&fontAlignY=35)
 
 ---
@@ -23,8 +22,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/saiiexd/saiiexd/output/github-snake.svg" />
 </picture>
 
+---
 
-### 🥰 Tech Toolbox
+<h2 align="center" style="color:#FF0000;">🥰 Tech Toolbox</h2>
 <h2 align="center">⚙️ My Tech Stack</h2>
 
 <table align="center">
@@ -67,12 +67,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure"/>
       <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
     </td>
     <td>
-      <!-- You can add tools like Postman, Docker, etc. if needed -->
       <span style="color: gray; font-size: 14px;">More coming soon...</span>
     </td>
   </tr>
@@ -99,28 +98,27 @@
 ### 👉 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-venkat-7a2843218/">
-    <img src="https://img.shields.io/badge/LinkedIn-SaiVenkat-red?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-SaiVenkat-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saivenkat262005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sai.venkat.ai%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-saivenkat262005-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/saivenkat262005/">
-    <img src="https://img.shields.io/badge/LeetCode-sai--venkat--ai-red?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-sai--venkat--ai-FF0000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/saiiexd">
-    <img src="https://img.shields.io/badge/Kaggle-sai--venkat--ai-red?style=for-the-badge&logo=kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-sai--venkat--ai-FF0000?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
 ---
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated-red.svg" width="100%" />
 </p>
 
-<div align="center">
-Built with ❤️ Sai Venkat
+<div align="center" style="color:#FF0000;">
+  Built with ❤️ Sai Venkat
 </div>
 
 ---
