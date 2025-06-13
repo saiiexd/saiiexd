@@ -28,65 +28,64 @@ I'm Sai Venkat — building the future, one prompt at a time.
 
 #### 🔢 Programming Languages
 <p>
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/python.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/java.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/sql.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.gif" height="40" />
 </p>
 
 #### 📊 Data Science & Analysis
 <p>
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/pandas.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/numpy.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/matplotlib.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.gif" height="40" />
 </p>
 
 #### 📈 Business Intelligence & Visualization
 <p>
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/powerbi.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/excel.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/rahulbanerjee26/githubProfileReadmeGenerator/icons/excel.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/rahulbanerjee26/githubProfileReadmeGenerator/icons/powerbi.svg" height="40" />
 </p>
 
 #### 💃 Big Data & Cloud Platforms
 <p>
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/hadoop.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/aws.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/azure.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/firebase.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.gif" height="40" />
 </p>
 
 #### 🥛 Databases & Data Engineering Essentials
 <p>
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/mysql.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/postgresql.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/sqlite.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/mongodb.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.gif" height="40" />
 </p>
 
 #### 🚀 Computer Networks & System Concepts
 <p>
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/network.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/linux.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/os.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.gif" height="40" />
 </p>
 
 #### ⚙️ Tools, Platforms & IDEs
 <p>
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/git.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/github.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/vscode.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/postman.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.gif" height="40" />
 </p>
 
 #### 🎨 UI/UX Design
 <p>
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/figma.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.gif" height="40" />
 </p>
 
 #### 🧠 AI/ML Tools & Research
 <p>
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/openai.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/langchain.gif" height="40" />
-  <img src="https://raw.githubusercontent.com/rohanverma-ai/rohanverma-ai/main/icons/whisper.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.gif" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.gif" height="40" />
 </p>
 
 ---
