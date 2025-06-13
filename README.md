@@ -1,14 +1,16 @@
 <div align="center">
 
-# 🌌 Hi, I'm **Sai Venkat**
-### 🚀 Data Engineer • B.Tech CSE @ LPU • Future Chief AI Officer
+# 🌌 Hi, I'm <span>
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <strong style="color:#00FFFF">Sai Venkat</strong> — building the future, one prompt at a time 🚀
+  </marquee>
+</span>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=004e92&height=140&section=header&text=Welcome%20to%20Sai's%20AI%20Lab&fontColor=ffffff&fontSize=28&fontAlignY=35)
 
 ---
 
 ### 👨‍💻 About Me
-
 
 🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
 📌 **Internship Ongoing** — mastering DSA in Java, building real-time systems  
@@ -27,7 +29,7 @@
 
 #### 📊 Data Science & Analysis
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://camo.githubusercontent.com/325fab592f249d1b02acde84f86f9392e48ff4bba6788b5dafcfb1091b4e7dad/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461735f77686974652e737667 />
   <img src="https://img.shields.io/badge/Matplotlib-20232A?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-20232A?style=flat&logo=python&logoColor=white" />
 </p>
@@ -36,6 +38,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=powerbi" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />
 </p>
 
 #### 💃 Big Data & Cloud Platforms
@@ -66,10 +69,11 @@
 ### 🚤 My Journey So Far
 - 🎓 Joined LPU with AI leadership ambition
 - 🤯 Faced coding struggles — now turning them into strengths
-- 💡 Learning DSA using *Grokking Algorithms* + internship bootcamps
+- 💡 Learning DSA + internship bootcamps
 - 🔊 Prototyping Voca AI – custom transcription and grammar engine
 - 🧪 Researching Prompt Engineering + GPT fine-tuning
-- 🚀 Building toward ₹6–8 Cr CTO/CAIO profile through bold projects
+- 🚀 Building toward CTO/CAIO profile through bold projects
+- ❤️  Working on my own Startups
 
 ---
 
