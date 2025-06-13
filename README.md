@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Hey, I am Sai Venkat
+    **Hey, I am Sai Venkat**
 🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
 📌 **Internship Ongoing** — mastering DSA in Java, building real-time systems  
 🧠 **Expertise**: Prompt Engineering, Audio AI, UI/UX Design, Research  
