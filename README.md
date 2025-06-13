@@ -42,14 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat-ai&theme=radical&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" />
 </p>
 
-## 🐍 Contribution Snake
+## ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sai-venkat-ai/sai-venkat-ai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sai-venkat-ai/sai-venkat-ai/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sai-venkat-ai/sai-venkat-ai/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiiexd/saiiexd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiiexd/saiiexd/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saiiexd/saiiexd/output/github-snake.svg" />
 </picture>
-
 
 ---
 
