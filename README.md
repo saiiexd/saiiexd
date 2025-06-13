@@ -1,4 +1,4 @@
- <div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=140&section=header&text=Welcome%20to%20Sai's%20AI%20Lab&fontColor=ffffff&fontSize=28&fontAlignY=35)
 
 ---
