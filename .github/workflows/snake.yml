@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -15,7 +16,7 @@ jobs:
       - name: Generate snake game from GitHub contributions graph
         uses: Platane/snk@v3
         with:
-          github_user_name: sai-venkat-ai
+          github_user_name: saiiexd
           outputs: |
             ./output/github-snake.svg
             ./output/github-snake-dark.svg?palette=github-dark
