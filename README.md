@@ -37,15 +37,16 @@ I'm Sai Venkat — building the future, one prompt at a time.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="50"/>
 </p>
 
 ---
 
 ### 📊 GitHub Tracking System
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-venkat-ai&theme=tokyonight&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-venkat-ai&theme=tokyonight&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat-ai&theme=tokyonight&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-venkat-ai&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-venkat-ai&theme=radical&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat-ai&theme=radical&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
@@ -54,7 +55,7 @@ I'm Sai Venkat — building the future, one prompt at a time.
 - ✨ Built **Voca AI** — real-time audio-to-text app with transcription animation
 - 📝 Designed and deployed projects using Firebase + Python + DSA logic
 - 📕 Completed **Grokking Algorithms** for foundational DSA
-- 👨‍💼 Learning from real-world internships and research
+- 👨‍💻 Learning from real-world internships and research
 - 🏆 Mastered basics of Data Engineering stack in year 1–2 of B.Tech
 
 ---
