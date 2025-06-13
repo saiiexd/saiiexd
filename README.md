@@ -1,18 +1,12 @@
 <div align="center">
 
-# 🌌 Hi, I'm <span>
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <strong style="color:#00FFFF">Sai Venkat</strong> — building the future, one prompt at a time 🚀
-  </marquee>
-</span>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=004e92&height=140&section=header&text=Welcome%20to%20Sai's%20AI%20Lab&fontColor=ffffff&fontSize=28&fontAlignY=35)
 
 ---
 
 ### 👨‍💻 About Me
 
-
+Hey, I am Sai Venkat
 🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
 📌 **Internship Ongoing** — mastering DSA in Java, building real-time systems  
 🧠 **Expertise**: Prompt Engineering, Audio AI, UI/UX Design, Research  
