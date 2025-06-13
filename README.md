@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FBB03B&center=true&vCenter=true&width=1000&height=80&lines=I'm+Sai+Venkat+%F0%9F%9A%80;Chief+AI+Officer+in+the+Making+%F0%9F%91%91;Data+Engineer+|+Builder+|+Dreamer+%F0%9F%92%AD"/>
 </div>
 
+<!-- 🌠 Custom Animation Classes -->
+<img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/space-unicorn.gif" width="120" style="position: absolute; top: 40px; left: 20px; animation: float 6s ease-in-out infinite;" />
+<img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/wizard-ai.gif" width="120" style="position: absolute; top: 140px; right: 40px; animation: slideLR 8s ease-in-out infinite;" />
+
 <style>
   .floating {
     animation: float 4s ease-in-out infinite;
