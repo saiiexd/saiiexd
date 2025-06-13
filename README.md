@@ -24,6 +24,14 @@
     50% { transform: translateX(20px); }
     100% { transform: translateX(0px); }
   }
+
+  .bounce-rotate {
+    animation: bounceRotate 5s ease-in-out infinite;
+  }
+  @keyframes bounceRotate {
+    0%, 100% { transform: rotate(0deg) translateY(0); }
+    50% { transform: rotate(20deg) translateY(-10px); }
+  }
 </style>
 
 ---
@@ -33,6 +41,7 @@
   <img class="floating" src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/cyber-fox.gif" width="160"/>
   <img class="slide-left-right" src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/robot-owl.gif" width="160"/>
   <img class="floating" src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/flying-dragon.gif" width="160"/>
+  <img class="bounce-rotate" src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/dancing-lion.gif" width="160"/>
 </div>
 
 > 💬 "If you're going through hell, keep going."
