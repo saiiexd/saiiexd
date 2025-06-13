@@ -42,6 +42,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat-ai&theme=radical&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" />
 </p>
 
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/sai-venkat-ai/sai-venkat-ai/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 🦟 LeetCode Progress
