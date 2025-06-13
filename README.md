@@ -24,7 +24,7 @@ I'm Sai Venkat — building the future, one prompt at a time.
 
 ---
 
-### 🧰 Tech Toolbox
+### 🩰 Tech Toolbox
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
@@ -37,6 +37,10 @@ I'm Sai Venkat — building the future, one prompt at a time.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
 </p>
 
 ---
@@ -44,7 +48,7 @@ I'm Sai Venkat — building the future, one prompt at a time.
 ### 📊 GitHub Tracking System
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sai-venkat-ai&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-venkat-ai&theme=radical&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sai-venkat-ai&theme=radical&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat-ai&theme=radical&layout=compact&title_color=FF0000&text_color=ffffff&bg_color=0d1117" />
 </p>
 
