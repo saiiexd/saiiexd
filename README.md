@@ -1,11 +1,9 @@
 <div align="center">
 
 # 🌌 Hi, I'm **Sai Venkat**
-### 🚀 Data Engineer • Student @ LPU • Future Chief AI Officer
+### 🚀 Data Engineer • B.Tech CSE @ LPU • Future Chief AI Officer
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=004e92&height=100&section=header&text=Welcome%20to%20Sai's%20AI%20Lab&fontColor=ffffff&fontSize=24&fontAlignY=40)
-
-![Sai's Avatar](https://avatars.githubusercontent.com/u/00000000?v=4)
+![header](https://capsule-render.vercel.app/api?type=waving&color=004e92&height=140&section=header&text=Welcome%20to%20Sai's%20AI%20Lab&fontColor=ffffff&fontSize=28&fontAlignY=35)
 
 ---
 
@@ -15,33 +13,47 @@ sai@ai-lab:~$ whoami
 I'm Sai Venkat — building the future, one prompt at a time.
 ```
 
-🎓 B.Tech CSE (AI & Data Engineering) @ LPU  
-🛠️ Data Engineering • Prompt Engineering • Cloud & ML  
-🎯 Mission: Become India's top Chief AI Officer
+🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
+📌 **Currently Interning**, learning DSA in Java & building production-grade software  
+🧠 **Strengths**: Prompt Engineering, Problem Solving, UI/UX Planning, Systems Thinking  
+🎯 **Mission**: Become India's top-paid **Chief AI Officer** (₹6–8 Cr+ CTC)  
+🛠️ **Working on**: AI Transcription App, GitHub overhaul, Off-campus prep
 
 ---
 
 ### 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,powerbi,excel,hadoop,mongodb,aws,azure&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,sql,pandas,numpy,powerbi,excel,hadoop,mongodb,aws,azure,git,github&theme=light" />
 </p>
 
----
-
-### 🛤️ My Journey
-- 🎓 Joined LPU
-- 💻 Built my first app
-- 🤖 Learned Prompt Engineering
-- 🚀 Launched my startup ideas
-- 👨‍💼 Road to Chief AI Officer
+🧠 Also exploring: Whisper AI, LangChain, Lottie, Firebase Auth, React, Vite
 
 ---
 
-### 🔥 GitHub Stats
+### 🛤️ My Journey So Far
+- 🎓 Joined LPU with dreams of AI innovation
+- 🔧 Struggled with coding — now actively mastering it
+- 📘 Learning DSA from *Grokking Algorithms* & internship classes
+- 🧪 Building custom Whisper-based transcription tool (Voca AI)
+- 🚀 Mastering Prompt Engineering, UI/UX, and startup prototyping
+- 👔 Preparing for top global MNC roles & ₹6–8 Cr Chief AI Officer goal
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Stack |
+|--------|-------------|--------|
+| **Voca AI** 🔊 | Real-time audio → text → grammar fix app for Windows | Whisper AI, Electron.js, Python, Grammarly API |
+| **PromptCraft** ✨ | Visual Prompt Builder & Optimizer for GenAI tools | React, Firebase, GPT-4o |
+| **DataLens** 📊 | Lightweight BI tool for EDA & dashboards | Python, PowerBI, Pandas |
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-venkat&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-venkat&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-venkat&show_icons=true&theme=react"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sai-venkat&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-venkat&layout=compact&theme=react"/>
 </p>
 
 ---
@@ -58,21 +70,22 @@ I'm Sai Venkat — building the future, one prompt at a time.
 ---
 
 ### 🌱 Startup Garden
-🚧 Projects in incubation:
-- **Voca AI** (🚀 Real-time transcription)
-- **PromptCraft** (AI Prompt Builder)
-- **DataLens** (BI visualization tool)
+- 🌱 **Voca AI** – in early MVP phase
+- 🌿 **PromptCraft** – UX & prototype ready
+- 🌳 **DataLens** – backend concept in development
+
+Mascot says: *Click to water your startup dreams!*
 
 ---
 
 ### 🧠 Quote I Live By
 > _"If you’re going through hell, keep going."_ — Winston Churchill
 
+Font: _Playfair Display_, Glowing Neon Orange ✨
+
 ---
 
-### 📫 Connect With Me
-Reach out for collaborations, mentorship or just to chat about AI!
-
+### 🤝 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sai-venkat"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:sai.venkat@email.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
@@ -83,6 +96,12 @@ Reach out for collaborations, mentorship or just to chat about AI!
 ---
 
 <p align="center">
-  Built with ❤️, Python, & Prompt Engineering<br/>
-  ⚙️ Currently crafting AI systems for tomorrow's world.
+  Built with ❤️, Python, and Prompt Engineering  
+  Currently crafting AI systems for tomorrow's world 🚀
 </p>
+
+---
+
+> 💡 Tip: This README is modular. Each section uses `<!-- START SECTION-NAME -->` and `<!-- END SECTION-NAME -->` so future automation or generation is easy.
+
+</div>
