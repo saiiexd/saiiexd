@@ -2,13 +2,13 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/stardust-banner.gif" width="100%"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Sai+Venkat+👨‍🚀;AI+Dreamer+%26+Creative+Engineer;Turning+Ideas+into+Magical+AI+Products"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Sai+Venkat+👨‍🚀;AI+Engineer+%7C+LLM+Enthusiast+%7C+Creative+Technologist"/>
 </div>
 
 ---
 
 ## 🎨 About Me
-I'm **Sai Venkat**, an engineering student specialized in **AI and Data Engineering** at LPU, on a journey to become a visionary **AI Architect**. My approach blends technical skill with artistic expression—building beautiful, intelligent systems that feel alive.
+I'm **Sai Venkat**, an AI Engineer-in-training at **LPU**, blending **data science**, **LLMs**, and **UX design** to build magical and intelligent systems. My dream? To become India's youngest **Chief AI Officer** by building AI that feels alive.
 
 ---
 
@@ -17,10 +17,11 @@ I'm **Sai Venkat**, an engineering student specialized in **AI and Data Engineer
   <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,java,cpp,mongodb,aws,azure,hadoop,html,css,js,figma,powerbi"/>
 </div>
 
-- 🤖 Prompt Engineering & LLMs
-- ☁️ Cloud Deployments with AWS + Azure
+- 🤖 Prompt Engineering & LLMs (OpenAI, Gemini, Mistral)
+- ☁️ Cloud Deployments with AWS & Azure
 - 🔍 Data Pipelines (ETL), Hadoop & BI Dashboards
 - 🛠️ Full-Stack Development with a design-first mindset
+- 📚 Learning: Java (DSA), TypeScript, Docker, LangChain, Whisper, Firebase
 
 ---
 
@@ -29,9 +30,9 @@ Each project is a magical world I’ve built or am building:
 
 | ✨ Project | 🌟 What It Does | 🧠 Status |
 |----------|------------------|-------------|
-| **Voca AI** | Real-time speech-to-text app with grammar correction | 🚧 Beta |
-| **PromptCraft** | AI Idea Generator with interactive UX | ✅ Live |
-| **Finance Pulse** | Visual analytics for personal finance | 🔄 Building |
+| [**Voca AI**](https://github.com/saicodinguniverse/voca-ai) | Real-time speech-to-text app with grammar correction | 🚧 Beta |
+| [**PromptCraft**](https://github.com/saicodinguniverse/promptcraft) | AI Idea Generator with interactive UX | ✅ Live |
+| [**Finance Pulse**](https://github.com/saicodinguniverse/finance-pulse) | Visual analytics for personal finance | 🔄 Building |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/pixel-space.gif" width="250"/>
