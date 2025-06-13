@@ -11,6 +11,10 @@
 ---
 
 ### 👨‍💻 About Me
+```bash
+sai@ai-lab:~$ whoami
+I'm Sai Venkat — building the future, one prompt at a time.
+```
 
 🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
 📌 **Internship Ongoing** — mastering DSA in Java, building real-time systems  
@@ -29,16 +33,16 @@
 
 #### 📊 Data Science & Analysis
 <p>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png"/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
   <img src="https://img.shields.io/badge/Matplotlib-20232A?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-20232A?style=flat&logo=python&logoColor=white" />
 </p>
 
 #### 📈 Business Intelligence & Visualization
 <p>
-  <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" />
+  <img src="https://skillicons.dev/icons?i=powerbi" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"/>
 </p>
 
 #### 💃 Big Data & Cloud Platforms
