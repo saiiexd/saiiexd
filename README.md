@@ -78,14 +78,13 @@
 
 ---
 
-### 🧠 Footer Pulse
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated-red.svg" width="100%" />
 </p>
 
 <div align="center">
-Built with ❤️, Python & Prompt Engineering  
-Crafting AI systems for tomorrow's world. 🤖
+Built with ❤️ Sai Venkat
 </div>
 
 ---
