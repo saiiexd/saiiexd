@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-   **Hey, I am Sai Venkat**
+   Hey, I am Sai Venkat 👨‍💻
 
    
 🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
