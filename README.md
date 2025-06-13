@@ -63,22 +63,19 @@ I'm Sai Venkat — building the future, one prompt at a time.
 
 ---
 
-### 🚀 Connect with Me
+### 👉 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sai-venkat-ai" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="70" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sai-venkat-7a2843218/">
+    <img src="https://img.shields.io/badge/LinkedIn-SaiVenkat-red?style=for-the-badge&logo=linkedin" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:sai.venkat.ai@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" width="70" alt="Gmail" />
+  <a href="mailto:saivenkat262005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sai.venkat.ai%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/sai-venkat-ai" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="70" alt="LeetCode" />
+  <a href="https://leetcode.com/u/saivenkat262005/">
+    <img src="https://img.shields.io/badge/LeetCode-sai--venkat--ai-red?style=for-the-badge&logo=leetcode" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/sai-venkat-ai" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="70" alt="Kaggle" />
+  <a href="https://www.kaggle.com/saiiexd">
+    <img src="https://img.shields.io/badge/Kaggle-sai--venkat--ai-red?style=for-the-badge&logo=kaggle" />
   </a>
 </p>
 
