@@ -10,7 +10,6 @@
   .floating {
     animation: float 4s ease-in-out infinite;
   }
-
   @keyframes float {
     0% { transform: translateY(0px); }
     50% { transform: translateY(-15px); }
@@ -20,7 +19,6 @@
   .slide-left-right {
     animation: slideLR 6s ease-in-out infinite;
   }
-
   @keyframes slideLR {
     0% { transform: translateX(0px); }
     50% { transform: translateX(20px); }
@@ -44,9 +42,8 @@ I’m **Sai Venkat**, a dreamer with a **mission to lead AI revolution in India*
 ---
 
 ## 🌲 The Magical Tech Forest
-
 <div align="center">
-<img class="slide-left-right" src="https://skillicons.dev/icons?i=python,java,cpp,sql,pandas,numpy,mongodb,azure,aws,hadoop,powerbi,html,css,js"/>
+  <img class="slide-left-right" src="https://skillicons.dev/icons?i=python,java,cpp,sql,pandas,numpy,mongodb,azure,aws,hadoop,powerbi,html,css,js"/>
 </div>
 
 - 📊 Data Engineering & Pipelines (ETL, Hadoop, Pandas)
@@ -58,7 +55,6 @@ I’m **Sai Venkat**, a dreamer with a **mission to lead AI revolution in India*
 ---
 
 ## 🛸 Featured Projects on Floating Orbs
-
 <div align="center">
   <img class="floating" src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/planet-scan.gif" width="140"/>
 </div>
@@ -72,7 +68,6 @@ I’m **Sai Venkat**, a dreamer with a **mission to lead AI revolution in India*
 ---
 
 ## 🧙‍♂️ Magic Zone of Learning
-
 ```bash
 💡 Currently mastering:
 - Data Structures & Algorithms (Java)
@@ -83,7 +78,6 @@ I’m **Sai Venkat**, a dreamer with a **mission to lead AI revolution in India*
 ---
 
 ## 🌌 GitHub Galaxy
-
 <p align="center">
   <img class="floating" src="https://github-readme-stats.vercel.app/api?username=saivenkat262005&show_icons=true&theme=radical"/>
   <img class="slide-left-right" src="https://github-readme-streak-stats.herokuapp.com/?user=saivenkat262005&theme=radical"/>
@@ -93,7 +87,6 @@ I’m **Sai Venkat**, a dreamer with a **mission to lead AI revolution in India*
 ---
 
 ## 🎮 Skills & Battles
-
 <div align="center">
   <img class="floating" src="https://leetcode.card.workers.dev/?username=saivenkat262005&style=dark"/>
   <br>
@@ -106,7 +99,6 @@ I’m **Sai Venkat**, a dreamer with a **mission to lead AI revolution in India*
 ---
 
 ## 🌈 Connect with Me
-
 <div align="center">
   <a href="mailto:saiiexd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/saiiexd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -115,7 +107,6 @@ I’m **Sai Venkat**, a dreamer with a **mission to lead AI revolution in India*
 ---
 
 ## 🏆 Floating Dream Island
-
 <div align="center">
   <img class="floating" src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/floating-island.gif" width="100%"/>
   <br>
