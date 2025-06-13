@@ -11,10 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-```bash
-sai@ai-lab:~$ whoami
-I'm Sai Venkat — building the future, one prompt at a time.
-```
+
 
 🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
 📌 **Internship Ongoing** — mastering DSA in Java, building real-time systems  
@@ -42,7 +39,7 @@ I'm Sai Venkat — building the future, one prompt at a time.
 <p>
   <img src="https://skillicons.dev/icons?i=powerbi" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"/>
+  <img srchttps://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png/>
 </p>
 
 #### 💃 Big Data & Cloud Platforms
