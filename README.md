@@ -24,7 +24,7 @@ I'm Sai Venkat — building the future, one prompt at a time.
 
 ---
 
-### 🩰 Tech Toolbox
+### 🥰 Tech Toolbox
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
@@ -65,17 +65,17 @@ I'm Sai Venkat — building the future, one prompt at a time.
 
 ### 👉 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/sai-venkat-ai">
     <img src="https://img.shields.io/badge/LinkedIn-SaiVenkat-red?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:sai.venkat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sai.venkat%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:sai.venkat.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sai.venkat.ai%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://leetcode.com/your-profile">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-red?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/sai-venkat-ai">
+    <img src="https://img.shields.io/badge/LeetCode-sai--venkat--ai-red?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://kaggle.com/your-profile">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-red?style=for-the-badge&logo=kaggle" />
+  <a href="https://kaggle.com/sai-venkat-ai">
+    <img src="https://img.shields.io/badge/Kaggle-sai--venkat--ai-red?style=for-the-badge&logo=kaggle" />
   </a>
 </p>
 
