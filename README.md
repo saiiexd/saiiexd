@@ -2,13 +2,13 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/stardust-banner.gif" width="100%"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Sai+Venkat+👨‍🚀;AI+Engineer+%7C+LLM+Enthusiast+%7C+Creative+Technologist"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=F7C08A&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+LLM+Builder+%7C+Future+Chief+AI+Officer;Building+Voice+and+LLM+Tools+for+India's+Next+Billion;Turning+Ideas+Into+AI-Powered+Realities"/>
 </div>
 
 ---
 
 ## 🎨 About Me
-I'm **Sai Venkat**, an AI Engineer-in-training at **LPU**, blending **data science**, **LLMs**, and **UX design** to build magical and intelligent systems. My dream? To become India's youngest **Chief AI Officer** by building AI that feels alive.
+I'm **Sai Venkat**, an AI Engineer-in-training at **LPU**, building real-time, human-centered AI tools with **LLMs**, **UX magic**, and **cloud scale**. I dream of becoming India's youngest **Chief AI Officer**, crafting systems that don’t just compute — they *connect*.
 
 ---
 
@@ -28,15 +28,29 @@ I'm **Sai Venkat**, an AI Engineer-in-training at **LPU**, blending **data scien
 ## 🌈 Projects Universe
 Each project is a magical world I’ve built or am building:
 
-| ✨ Project | 🌟 What It Does | 🧠 Status |
-|----------|------------------|-------------|
-| [**Voca AI**](https://github.com/saicodinguniverse/voca-ai) | Real-time speech-to-text app with grammar correction | 🚧 Beta |
-| [**PromptCraft**](https://github.com/saicodinguniverse/promptcraft) | AI Idea Generator with interactive UX | ✅ Live |
-| [**Finance Pulse**](https://github.com/saicodinguniverse/finance-pulse) | Visual analytics for personal finance | 🔄 Building |
+<div align="center">
+  <a href="https://github.com/saicodinguniverse/voca-ai">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saicodinguniverse&repo=voca-ai&theme=midnight-purple"/>
+  </a>
+  <a href="https://github.com/saicodinguniverse/promptcraft">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saicodinguniverse&repo=promptcraft&theme=midnight-purple"/>
+  </a>
+  <a href="https://github.com/saicodinguniverse/finance-pulse">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saicodinguniverse&repo=finance-pulse&theme=midnight-purple"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/pixel-space.gif" width="250"/>
 </div>
+
+---
+
+## 💼 What I Can Bring To Your Team
+- 🎙 Build real-time AI interfaces (voice, chat, LLMs) with production-ready UX
+- 🧠 Fine-tune and deploy Large Language Models (Open Source + APIs)
+- 📊 Design intelligent BI tools & dashboards using NLP + data pipelines
+- 🎨 Translate complex tech into elegant, user-first applications
 
 ---
 
@@ -46,6 +60,13 @@ Each project is a magical world I’ve built or am building:
 🧠 Prompt Engineering Experiments
 🌐 Building Real-Time AI Tools
 ```
+
+---
+
+## 🏆 Highlights & Recognition
+- Finalist – Smart India Hackathon 2024 (AI/ML track)
+- Published on [Kaggle Notebooks](https://kaggle.com/saiiexd)
+- Top 5% globally on PromptHero AI Prompting Challenge (Mar 2025)
 
 ---
 
@@ -82,3 +103,8 @@ Each project is a magical world I’ve built or am building:
 </div>
 
 > ✨ _Crafting code like poetry, blending logic with beauty. – Sai Venkat_
+
+---
+
+🛰️ **Looking to collaborate or hire?**  
+Let’s build the next generation of AI tools — [Email me](mailto:saivenkat262005@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/sai-venkat-7a2843218).
