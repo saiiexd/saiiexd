@@ -36,7 +36,7 @@
 
 #### 📈 Business Intelligence & Visualization
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi" />
+  <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" />
 </p>
