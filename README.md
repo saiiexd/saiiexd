@@ -64,8 +64,7 @@ I'm Sai Venkat — building the future, one prompt at a time.
 ---
 
 ### 🚀 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/sai-venkat-ai" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:sai.venkat.ai@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-Mail Me-d44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://leetcode.com/sai-venkat-ai" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> <a href="https://kaggle.com/sai-venkat-ai" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /> </a> </p>
-
+<div align="center"> <a href="https://www.linkedin.com/in/sai-venkat-ai" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/linkedin.gif" width="120" height="120" alt="LinkedIn" style="margin: 10px;" /> </a> <a href="mailto:sai.venkat.ai@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gmail.gif" width="120" height="120" alt="Gmail" style="margin: 10px;" /> </a> <a href="https://leetcode.com/sai-venkat-ai" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="100" height="100" alt="LeetCode" style="margin: 10px; animation: pulse 2s infinite;" /> </a> <a href="https://kaggle.com/sai-venkat-ai" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="100" height="100" alt="Kaggle" style="margin: 10px; animation: pulse 2s infinite;" /> </a> </div>
 ---
 
 ### 🧠 Footer Pulse
