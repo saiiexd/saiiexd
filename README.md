@@ -26,20 +26,23 @@
 
 ### 🥰 Tech Toolbox
 <p align="center">
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/python--v1.png" title="Python"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png" title="Java"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/40/000000/mysql-logo.png" title="MySQL"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/40/000000/mongodb.png" title="MongoDB"/></a> <!-- updated -->
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/html-5--v1.png" title="HTML5"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/css3.png" title="CSS3"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/bash.png" title="Bash"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/linux--v1.png" title="Linux"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/git.png" title="Git"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/azure-architecture.png" title="Azure"/></a> <!-- updated -->
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/amazon-web-services.png" title="AWS"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/sqlite.png" title="SQLite"/></a> <!-- updated -->
-  <a href="#"><img src="https://img.icons8.com/color/40/000000/firebase.png" title="Firebase"/></a>
-  <a href="#"><
+  <a href="#"><img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/></a>
+  <a href="#"><img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL"/></a>
+  <a href="#"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" title="MongoDB"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/bash.png" title="Bash"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/git.png" title="Git"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/microsoft-azure-1.png" title="Azure"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/></a>
+  <a href="#"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/external-sqlite-computer-programming-flaticons-flat-flat-icons.png" title="SQLite"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/></a>
+  <a href="#"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/></a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/50/jupyter.png" title="Jupyter Notebook"/></a>
+</p>
+
 
 
 ---
