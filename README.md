@@ -56,7 +56,7 @@
 <h3 align="center">☁️ Cloud & DevOps</h3>
 <p align="center">
   <!-- Azure (working PNG from reliable CDN) -->
-  <img src="https://img.icons8.com/color/48/microsoft-azure-1.png" width="50" title="Microsoft Azure"/>
+    <img src="https://img.icons8.com/color/48/microsoft-azure-1.png" width="50" title="Microsoft Azure"/>
 
   <!-- AWS (working PNG from icons8) -->
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="50" title="AWS"/>
