@@ -8,10 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-```bash
-sai@ai-lab:~$ whoami
-I'm Sai Venkat — building the future, one prompt at a time.
-```
+
 
 🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
 📌 **Internship Ongoing** — mastering DSA in Java, building real-time systems  
