@@ -1,100 +1,105 @@
-<!-- HEADER SECTION WITH ANIMATED SKY BACKGROUND -->
+<!-- ✨ Legendary GitHub ReadMe for Sai Venkat ✨ -->
+
+<!-- 🌌 Fullscreen Animated Landing -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/stars-bg.gif" width="100%"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FAFAFA&center=true&vCenter=true&width=1000&height=80&lines=I'm+Sai+Venkat+🚀;Aspiring+Chief+AI+Officer+👑;Data+Engineer+|+Builder+|+Dreamer+💭"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FBB03B&center=true&vCenter=true&width=1000&height=80&lines=I'm+Sai+Venkat+%F0%9F%9A%80;Chief+AI+Officer+in+the+Making+%F0%9F%91%91;Data+Engineer+|+Builder+|+Dreamer+%F0%9F%92%AD"/>
 </div>
 
 ---
 
-## 🐾 Who Am I (Animated)
+## 🐉 Welcome to My Fantasy AI Jungle
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/cyber-fox.gif" width="160"/>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/robot-owl.gif" width="160"/>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/flying-dragon.gif" width="160"/>
+</div>
+
+> 💬 "If you're going through hell, keep going."
+
+I’m **Sai Venkat**, a dreamer with a **mission to lead AI revolution in India**. I build data-driven systems, AI products, and apps that solve real-world problems while aiming for a role as **Chief AI Officer** 👑.
+
+---
+
+## 🌲 The Magical Tech Forest
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/JtBZm8uA2DoU0nFEPq/giphy.gif" width="160"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,pandas,numpy,mongodb,azure,aws,hadoop,powerbi,html,css,js"/>
 </div>
 
-I’m **Sai Venkat**, a passionate AI & Data Engineering student from LPU. Currently preparing to build the future with intelligent apps and meaningful data systems.
-
-> 🦊 "If you're going through hell, keep going."
-
----
-
-## 🎨 Unique Style: Designed with Imagination
-
-> 💫 This README isn’t just about tech — it’s about **personality**. Every animation, GIF, and badge is hand-picked to reflect how I think, build, and dream.
+- 📊 Data Engineering & Pipelines (ETL, Hadoop, Pandas)
+- ☁️ Cloud Computing (AWS, Azure)
+- 🧠 Prompt Engineering & LLMs
+- 🎨 Dashboards (Excel, Power BI)
+- 🛠️ Building Startups & AI tools
 
 ---
 
-## 🧠 My Tech Playground
+## 🛸 Featured Projects on Floating Orbs
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/planet-scan.gif" width="140"/>
+</div>
+
+| ✨ Project | 🔍 What it Does | 🚀 Status |
+|-----------|------------------|-----------|
+| `Voca AI` | Real-time speech to text with grammar correction and animated UI | 🚧 Beta |
+| `PromptCraft` | AI-generated business/product ideas | ✅ Deployed |
+| `Finance Pulse` | Smart dashboards for personal and team finance | 🔄 Ongoing |
+
+---
+
+## 🧙‍♂️ Magic Zone of Learning
+
+```bash
+💡 Currently mastering:
+- Data Structures & Algorithms (Java)
+- Prompt Engineering & LLM fine-tuning
+- Distributed Systems (Hadoop, Spark)
+```
+
+---
+
+## 🌌 GitHub Galaxy
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-gray?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-orange?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-lightblue?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-darkorange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-darkblue?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PromptEngineering-purple?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="200"/>
-</div>
-
----
-
-## 🦄 Projects Brewing in the Dream Lab
-
-> 🐉 Real AI. Real Data. Real Problems. Real Solutions.
-
-- 🗣️ **Voca AI** – Audio to text transcription w/ grammar correction & animated text flow ✨
-- 📊 **Finance Pulse** – Track & visualize finances using SQL, Excel, PowerBI
-- 🤖 **PromptCraft** – AI-powered instant business idea & product generator
-
----
-
-## 🧭 Learning Journey
-
-🎯 Data Structures (Java) | ☁️ Cloud (AWS + Azure) | 🤖 LLMs & Prompt Engineering
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xUOwGoNaurehzhf0k0/giphy.gif" width="200"/>
-</div>
-
----
-
-## 🔥 GitHub Magic Zone
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saivenkat262005&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivenkat262005&theme=tokyonight"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=saivenkat262005&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saivenkat262005&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saivenkat262005&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saivenkat262005&theme=dracula"/>
 </p>
 
 ---
 
-## 📚 Knowledge Repositories
+## 🎮 Skills & Battles
+
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/?username=saivenkat262005&style=dark"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/training-ai.gif" width="160"/>
+</div>
 
 - 📘 Leetcode: [leetcode.com/u/saivenkat262005](https://leetcode.com/u/saivenkat262005/)
 - 📘 Kaggle: [kaggle.com/saiiexd](https://www.kaggle.com/saiiexd)
 
 ---
 
-## 🐾 Connect with Me
+## 🌈 Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="mailto:saiiexd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/saiiexd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+</div>
 
 ---
+
+## 🏆 Floating Dream Island
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/saicodinguniverse/custom-assets/main/floating-island.gif" width="100%"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=saivenkat262005&style=flat-square&color=brightgreen"/>
 </div>
+
+---
+
+> 🚀 _Made with stars, AI, imagination & a bit of code magic ✨ by Sai Venkat._
