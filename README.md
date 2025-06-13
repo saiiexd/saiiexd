@@ -26,21 +26,28 @@
 
 ### 🥰 Tech Toolbox
 <p align="center">
-  <a href="#"><img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/></a>
-  <a href="#"><img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL"/></a>
-  <a href="#"><img src="https://img.icons8.com/external-flat-icons-flat-flat-icons/48/external-mongodb-database-flat-icons-flat-flat-icons.png" title="MongoDB"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/bash.png" title="Bash"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/git.png" title="Git"/></a>
-  <a href="#"><img src="https://iconduck.com/icons/2619/microsoft-azure-48.png" title="Azure"/></a> <!-- reliable -->
-  <a href="#"><img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/></a>
-  <a href="#"><img src="https://iconduck.com/icons/27981/sqlite-48.png" title="SQLite"/></a> <!-- reliable -->
-  <a href="#"><img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/></a>
-  <a href="#"><img src="https://img.icons8.com/ios-filled/50/jupyter.png" title="Jupyter Notebook"/></a>
+  <!-- Already working -->
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/></a>
+  
+  <!-- FIXED Azure (using image from icons8) -->
+  <a href="#"><img src="https://img.icons8.com/color/48/microsoft-azure-1.png" width="50" title="Microsoft Azure"/></a>
+  
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/></a>
+
+  <!-- FIXED SQLite (fallback icon) -->
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="50" title="SQLite"/></a>
+  
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter Notebook"/></a>
 </p>
 
 
