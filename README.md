@@ -7,10 +7,12 @@
     Hey! I am Sai Venkat
 🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
 📌 **Internship Ongoing** — mastering DSA in Java, building real-time systems  
-🧠 **Expertise**: Prompt Engineering, Audio AI, UI/UX Design, Research  
-🎯 **Vision**: Rise as India’s most impactful Chief AI Officer 
+🧠 **Expertise**: startups
+🎯 **Vision**: Rise as India’s most impactful __ Engineer 
 
-🛠️ **Current Focus**: Voca AI, GitHub profile design, Off-campus job strategy
+🛠️ **Current Focus**: Voca AI, GitHub profile design, Off-campus job strategy, Truxlo
+
+GO CHECK OUT: www.truxlo.com
 
 ---
 
