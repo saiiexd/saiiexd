@@ -114,9 +114,6 @@ GO CHECK OUT: www.truxlo.com
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated-red.svg" width="100%" />
-</p>
 
 <div align="center" style="color:#FF0000;">
   Built with ❤️ Sai Venkat
