@@ -2,15 +2,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
     Hey! I am Sai Venkat
-🎓 **B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
-📌 **Internship Ongoing** — mastering DSA in Java, building real-time systems  
-🧠 **Expertise**: startups
-🎯 **Vision**: Rise as India’s most impactful __ Engineer 
-
-🛠️ **Current Focus**: Voca AI, GitHub profile design, Off-campus job strategy, Truxlo
+**B.Tech in CSE (AI & Data Engineering)** @ **LPU**  
+**Internship Ongoing** — mastering DSA in Java, building real-time systems  
+**Expertise**: startups
+**Vision**: Rise as India’s most impactful __ Engineer 
+**Current Focus**: Voca AI, GitHub profile design, Off-campus job strategy, Truxlo
 
 GO CHECK OUT: www.truxlo.com
 
@@ -88,16 +87,16 @@ GO CHECK OUT: www.truxlo.com
 
 ---
 
-### 🌟 Achievements & Highlights
-- ✨ Built **Voca AI** — real-time audio-to-text app with transcription animation
-- 📝 Designed and deployed projects using Firebase + Python + DSA logic
-- 📕 Completed **Grokking Algorithms** for foundational DSA
-- 👨‍💻 Learning from real-world internships and research
-- 🏆 Mastered basics of Data Engineering stack in year 1–2 of B.Tech
+### Achievements & Highlights
+-  Built **Voca AI** — real-time audio-to-text app with transcription animation
+-  Designed and deployed projects using Firebase + Python + DSA logic
+-  Completed **Grokking Algorithms** for foundational DSA
+-  Learning from real-world internships and research
+-  Mastered basics of Data Engineering stack in year 1–2 of B.Tech
 
 ---
 
-### 👉 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-venkat-7a2843218/">
     <img src="https://img.shields.io/badge/LinkedIn-SaiVenkat-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" />
