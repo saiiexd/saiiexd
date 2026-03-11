@@ -1,25 +1,29 @@
-<h1 align="center">Sai Venkat</h1>
+<!-- HEADER BANNER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Sai%20Venkat&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">AI • Data Science • Machine Learning</h3>
 
 <p align="center">
-Building intelligent systems using data, machine learning, and scalable pipelines.
+Building intelligent systems using machine learning, data engineering, and scientific analytics
 </p>
 
 ---
 
 # About Me
 
-I am a Computer Science Engineering student specializing in Artificial Intelligence and Data Engineering.  
-My work focuses on building end-to-end intelligent systems that combine data pipelines, machine learning models, and interactive applications.
+Computer Science Engineering student specializing in **Artificial Intelligence and Data Engineering**.
 
-I enjoy working on problems involving data analysis, scientific computing, and real-world machine learning systems.
+My work focuses on building **end-to-end intelligent systems** combining:
 
-Current focus areas:
+• Data pipelines  
+• Machine learning models  
+• scientific analytics  
+• interactive dashboards  
 
-• Machine Learning Systems  
-• Data Engineering Pipelines  
-• Explainable AI  
-• Scientific Data Analysis  
+Currently focused on developing **AI-driven data platforms and research systems**.
 
 ---
 
@@ -27,68 +31,62 @@ Current focus areas:
 
 ## ExoIntel – AI Exoplanet Discovery Platform
 
-ExoIntel is a research platform that analyzes planetary datasets from the NASA Exoplanet Archive to identify potentially habitable worlds using machine learning.
+AI platform that analyzes planetary datasets from the **NASA Exoplanet Archive** to estimate planetary habitability and identify candidate habitable worlds.
 
 Key capabilities:
 
-• Automated data ingestion from NASA Exoplanet Archive  
+• automated data ingestion pipeline  
 • PostgreSQL research data warehouse  
-• Machine learning habitability prediction models  
-• Explainable AI using SHAP  
-• Scientific analytics and discovery ranking  
-• Interactive dashboards and visualization tools
+• machine learning habitability prediction models  
+• explainable AI using SHAP  
+• scientific analytics and discovery ranking  
+• interactive dashboards for exploration
 
-Repository:
-
+Repository  
 https://github.com/saiiexd/exo-intel-platform
 
 ---
 
 # Tech Stack
 
-### Programming
-
-Python • SQL • Java
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,sql"/>
+</p>
 
 ### Data Science & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
-Pandas  
-NumPy  
-Scikit-learn  
-Feature Engineering  
-SHAP
+Pandas • NumPy • Scikit-learn • Feature Engineering • SHAP
 
-### Data & Backend Systems
+### Data Systems
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase"/>
+</p>
 
-PostgreSQL  
-MySQL  
-FastAPI  
-Firebase
+PostgreSQL • MySQL • FastAPI • Firebase
 
-### Visualization
-
-Power BI  
-Matplotlib  
-Seaborn
-
-### Tools
-
-Git  
-Docker  
-AWS  
-Azure  
-VS Code
+### Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,vscode,linux"/>
+</p>
 
 ---
 
-# GitHub Contribution Activity
+# GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saiiexd&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=saiiexd&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiiexd&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiiexd&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiiexd&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -101,29 +99,50 @@ VS Code
 
 # LeetCode Progress
 
-Focused on improving problem solving and algorithmic thinking.
-
-Profile:
-
-https://leetcode.com/u/saivenkat262005/
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/saivenkat262005?theme=dark&font=Karma&ext=contest"/>
+</p>
 
 ---
 
-# Connect With Me
+# Achievements
 
-LinkedIn  
-https://linkedin.com/in/saivenkat7
-
-GitHub  
-https://github.com/saiiexd
-
-Email  
-saivenkat262005@gmail.com
+• Oracle Cloud Infrastructure Data Science Professional  
+• Microsoft Azure Data Fundamentals  
+• 70+ problems solved on LeetCode  
+• 5★ Python – HackerRank  
 
 ---
 
-# Current Goals
+# Current Focus
 
-• Building research-grade AI platforms  
-• Contributing to open-source machine learning projects  
-• Advancing skills in data engineering and distributed systems  
+• Machine Learning Systems  
+• Data Engineering Pipelines  
+• Explainable AI  
+• Scientific Data Analysis  
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/saiiexd">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/saivenkat7">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:saivenkat262005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
+</p>
