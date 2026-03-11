@@ -1,129 +1,64 @@
-<!-- HEADER BANNER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Sai%20Venkat&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Sai%20Venkat&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h3 align="center">AI • Data Science • Machine Learning</h3>
+<h2 align="center">Building Intelligent Systems With Data</h2>
 
 <p align="center">
-Building intelligent systems using machine learning, data engineering, and scientific analytics
+AI • Data Science • Machine Learning
 </p>
 
 ---
 
 # About Me
 
-Computer Science Engineering student specializing in **Artificial Intelligence and Data Engineering**.
+Hello, I’m **Sai Venkat**.
 
-My work focuses on building **end-to-end intelligent systems** combining:
+I’m a Computer Science Engineering student exploring the intersection of **data, intelligence, and real-world systems**. My work revolves around transforming complex datasets into meaningful insights and building intelligent tools that help uncover patterns hidden within data.
 
-• Data pipelines  
-• Machine learning models  
-• scientific analytics  
-• interactive dashboards  
+What excites me most about technology is its ability to convert raw information into **actionable understanding**. Whether it is analyzing large datasets, designing machine learning pipelines, or building analytical platforms, I enjoy the process of turning abstract ideas into functional systems.
 
-Currently focused on developing **AI-driven data platforms and research systems**.
+I approach projects with a focus on **systems thinking** — understanding how data flows, how models learn from that data, and how those insights can be presented in a way that is useful and interpretable.
 
----
+My learning journey is currently centered around:
 
-# Featured Project
-
-## ExoIntel – AI Exoplanet Discovery Platform
-
-AI platform that analyzes planetary datasets from the **NASA Exoplanet Archive** to estimate planetary habitability and identify candidate habitable worlds.
-
-Key capabilities:
-
-• automated data ingestion pipeline  
-• PostgreSQL research data warehouse  
-• machine learning habitability prediction models  
-• explainable AI using SHAP  
-• scientific analytics and discovery ranking  
-• interactive dashboards for exploration
-
-Repository  
-https://github.com/saiiexd/exo-intel-platform
-
----
-
-# Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,sql"/>
-</p>
-
-### Data Science & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-Pandas • NumPy • Scikit-learn • Feature Engineering • SHAP
-
-### Data Systems
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase"/>
-</p>
-
-PostgreSQL • MySQL • FastAPI • Firebase
-
-### Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,vscode,linux"/>
-</p>
-
----
-
-# GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saiiexd&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiiexd&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiiexd&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Contribution Snake
-
-![snake gif](https://github.com/saiiexd/saiiexd/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# LeetCode Progress
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/saivenkat262005?theme=dark&font=Karma&ext=contest"/>
-</p>
-
----
-
-# Achievements
-
-• Oracle Cloud Infrastructure Data Science Professional  
-• Microsoft Azure Data Fundamentals  
-• 70+ problems solved on LeetCode  
-• 5★ Python – HackerRank  
-
----
-
-# Current Focus
-
+• Artificial Intelligence  
+• Data Engineering  
 • Machine Learning Systems  
-• Data Engineering Pipelines  
-• Explainable AI  
 • Scientific Data Analysis  
 
+I enjoy building projects that combine **research thinking with practical engineering**, where data pipelines, models, and interfaces work together as a cohesive system.
+
 ---
 
-# Connect
+# What I Focus On
+
+I am particularly interested in developing systems that operate across multiple layers of technology.
+
+From data ingestion and preprocessing pipelines to model training, explainability, and interactive exploration tools, I enjoy understanding how each component contributes to the larger architecture of an intelligent platform.
+
+Areas I continue to explore deeply include:
+
+• Designing scalable data workflows  
+• Building machine learning driven analytics platforms  
+• Creating interpretable AI systems  
+• Developing data visualization tools for complex datasets  
+
+My goal is to build systems that are not only technically sound but also **transparent, interpretable, and useful for real-world decision making**.
+
+---
+
+# Current Direction
+
+At this stage of my journey, I am focused on strengthening my understanding of how intelligent systems are designed end-to-end.
+
+This includes studying how data infrastructure, model development, and analytical interfaces come together to form platforms capable of solving complex problems.
+
+I am continuously experimenting with new ideas, building systems, and refining my approach to engineering intelligent software.
+
+---
+
+# Connect With Me
 
 <p align="center">
 
