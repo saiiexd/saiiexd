@@ -2,63 +2,105 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Sai%20Venkat&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">Building Intelligent Systems With Data</h2>
+<h2 align="center">AI • Data Science • Machine Learning</h2>
 
 <p align="center">
-AI • Data Science • Machine Learning
+Building intelligent systems using data, machine learning and scalable pipelines
 </p>
 
 ---
 
-# About Me
+## About Me
 
-Hello, I’m **Sai Venkat**.
+Hello, I'm **Sai Venkat**.
 
-I’m a Computer Science Engineering student exploring the intersection of **data, intelligence, and real-world systems**. My work revolves around transforming complex datasets into meaningful insights and building intelligent tools that help uncover patterns hidden within data.
+Computer Science Engineering student focused on **Artificial Intelligence and Data Engineering**.
 
-What excites me most about technology is its ability to convert raw information into **actionable understanding**. Whether it is analyzing large datasets, designing machine learning pipelines, or building analytical platforms, I enjoy the process of turning abstract ideas into functional systems.
+I enjoy building systems that combine:
 
-I approach projects with a focus on **systems thinking** — understanding how data flows, how models learn from that data, and how those insights can be presented in a way that is useful and interpretable.
+- data pipelines  
+- machine learning models  
+- analytical platforms  
+- interactive data exploration  
 
-My learning journey is currently centered around:
-
-• Artificial Intelligence  
-• Data Engineering  
-• Machine Learning Systems  
-• Scientific Data Analysis  
-
-I enjoy building projects that combine **research thinking with practical engineering**, where data pipelines, models, and interfaces work together as a cohesive system.
+My goal is to design systems that transform **raw data into useful insights and intelligent applications**.
 
 ---
 
-# What I Focus On
+## Tech Stack
 
-I am particularly interested in developing systems that operate across multiple layers of technology.
+### Programming Languages
 
-From data ingestion and preprocessing pipelines to model training, explainability, and interactive exploration tools, I enjoy understanding how each component contributes to the larger architecture of an intelligent platform.
-
-Areas I continue to explore deeply include:
-
-• Designing scalable data workflows  
-• Building machine learning driven analytics platforms  
-• Creating interpretable AI systems  
-• Developing data visualization tools for complex datasets  
-
-My goal is to build systems that are not only technically sound but also **transparent, interpretable, and useful for real-world decision making**.
+<p>
+<img src="https://skillicons.dev/icons?i=python,java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+</p>
 
 ---
 
-# Current Direction
+### Data Science & Machine Learning
 
-At this stage of my journey, I am focused on strengthening my understanding of how intelligent systems are designed end-to-end.
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45"/>
+</p>
 
-This includes studying how data infrastructure, model development, and analytical interfaces come together to form platforms capable of solving complex problems.
-
-I am continuously experimenting with new ideas, building systems, and refining my approach to engineering intelligent software.
+Pandas • NumPy • Feature Engineering • Machine Learning
 
 ---
 
-# Connect With Me
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+PostgreSQL • MySQL
+
+---
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,firebase"/>
+</p>
+
+FastAPI • Firebase
+
+---
+
+### Visualization & Analytics
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+</p>
+
+Power BI • Matplotlib • Seaborn
+
+---
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,azure,vscode,linux"/>
+</p>
+
+Git • Docker • AWS • Azure • VS Code • Linux
+
+---
+
+## Interests
+
+- Artificial Intelligence  
+- Data Science  
+- Machine Learning Systems  
+- Data Engineering  
+- Scientific Data Analysis  
+
+---
+
+## Connect
 
 <p align="center">
 
