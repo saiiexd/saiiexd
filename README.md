@@ -23,6 +23,14 @@ I enjoy building systems that combine:
 - analytical platforms  
 - interactive data exploration  
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiiexd/saiiexd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiiexd/saiiexd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/saiiexd/saiiexd/output/github-contribution-grid-snake.svg">
+</picture>
+
 My goal is to design systems that transform **raw data into useful insights and intelligent applications**.
 
 ---
