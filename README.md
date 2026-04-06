@@ -2,6 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Sai%20Venkat&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9nM2J2NGJlaXptaGYyajkxNmk0MWw0c3RsbmRicnpra3YycHh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l19ipdY2pjK3d8Omtz/giphy.gif" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtja2psY2Z5NmFmZWw4aHpmbzMyZTY2b3ljdDZkNXpjZHg2cXQwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwucrl3sH0GjGzm/giphy.gif" width="350" />
+</p>
+
 <h2 align="center">AI • Data Science • Machine Learning</h2>
 
 <p align="center">
