@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZiZW85MjU3OGs0Zm85anZrenliajdxdmkzNzUyazBwMjIwendjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lVFqY6rWZUqJeqaqnX/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEyOWt4NWgwOHdtMHE1YWZmcWFsdmJqb2J4YjByZjViZnkyOW9mdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JxyjhoG4FE97Sf1nhQ/giphy.gif)" width="500" />
+  <img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWEyOWt4NWgwOHdtMHE1YWZmcWFsdmJqb2J4YjByZjViZnkyOW9mdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JxyjhoG4FE97Sf1nhQ/giphy.gif)" width="500" />
 </p>
 <h2 align="center">AI • Data Science • Machine Learning</h2>
 
